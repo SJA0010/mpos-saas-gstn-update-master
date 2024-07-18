@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850541892362",
+    "project_id": "mpos-651e5",
+    "storage_bucket": "mpos-651e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850541892362:android:a8f128abf91cd0af14a0f3",
+        "android_client_info": {
+          "package_name": "com.maantheme.salespro_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFEqnrQ2sEKBqKEcKabkB9p6SlJoLJjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
